@@ -1,5 +1,4 @@
-# feed_rss_sample
-RSS订阅源生成及解析RSS订阅数据
+Welcome to the feed_rss_sample wiki!
 ```ruby
 require 'rss'
 require 'open-uri'
@@ -50,5 +49,4 @@ class Feed
 		rss
 	end
 
-end
-`
+end`
